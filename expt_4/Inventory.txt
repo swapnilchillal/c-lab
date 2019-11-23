@@ -1,0 +1,6 @@
+Asset Number : 101
+Asset Name : chair
+Asset Price : 200.00
+Asset Number : 102
+Asset Name : mobile
+Asset Price : 12000.00
